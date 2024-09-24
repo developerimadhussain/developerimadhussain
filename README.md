@@ -17,7 +17,7 @@ Here are a few projects I've worked on, listed from most recent to oldest:
 
 - **[Easy to Buy](https://easytobuy.42web.io)**: An e-commerce application designed to enhance user shopping experiences.
 - **[MA Studio and Stationary](http://mastudioandstationary.42web.io/)**: A web-based application for managing transactions, including BKash and Nagad services.
-- **[2nd Foundation](http://2ndfoundation.liveblog365.com/)**: A project that focuses on [brief description of what the project does].
+- **[2nd Foundation](http://2ndfoundation.liveblog365.com/)**: A Web based application which is developed for Volunteer based organizations in bd such as KIN school, SWAPNOTTHAN school etc which work for poor child education.
 - **[Online Food Order]**: A web platform for ordering food online with user-friendly features.
 - **[Bookshop]**: An online platform for managing book sales and inventory.
 - **[Crime Genre Prediction]**: A machine learning project aimed at predicting crime genres based on data analysis.
