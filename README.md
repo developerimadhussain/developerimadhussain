@@ -8,7 +8,7 @@ Hello! I'm **Imad Hussain**, a passionate **Software Developer** with a focus on
 - **Frameworks**: Laravel, Bootstrap
 - **Databases**: MySQL
 - **Machine Learning**: Python, Scikit-learn
-- **Other Tools**: Git, GitHub, Docker
+- **Other Tools**: Git, GitHub
 - **Office Tools**: Microsoft Word, Excel, PowerPoint
 
 ## 🚀 Projects
